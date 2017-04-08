@@ -157,7 +157,7 @@ ostream& operator<<(ostream &out,ITEM &It)
 int main()
 {
     
-    ITEM I[100];
+    ITEM ItemDetails[100];
     BILL b;
     ADDRESS add;
     char ch,c;
